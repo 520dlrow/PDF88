@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PDF88" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowBackground">@color/bg_light</item>
+        <item name="android:textColorPrimary">@color/text_light</item>
+    </style>
+    <style name="Theme.PDF88.Dark" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="android:textColorPrimary">@color/text_dark</item>
+    </style>
+    <style name="Theme.PDF88.HC" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowBackground">@color/bg_hc</item>
+        <item name="android:textColorPrimary">@color/text_hc</item>
+    </style>
+</resources>
