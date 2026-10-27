@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PDF88</string>
+    <string name="add_pdf">+ Ajouter un PDF</string>
+    <string name="no_pdfs">Aucun PDF trouvé.\nCliquez sur + pour ajouter.</string>
+    <string name="back">Retour</string>
+    <string name="bookmark">Marque-page</string>
+    <string name="bookmark_saved">Page sauvegardée!</string>
+    <string name="theme">Thème</string>
+</resources>
