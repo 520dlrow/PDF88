@@ -3,13 +3,21 @@
     <style name="Theme.PDF88" parent="Theme.Material3.Light.NoActionBar">
         <item name="android:windowBackground">@color/bg_light</item>
         <item name="android:textColorPrimary">@color/text_light</item>
+        <item name="colorPrimary">@color/btn_light</item>
+        <item name="colorOnPrimary">@color/btn_text_light</item>
     </style>
+
     <style name="Theme.PDF88.Dark" parent="Theme.Material3.Dark.NoActionBar">
         <item name="android:windowBackground">@color/bg_dark</item>
         <item name="android:textColorPrimary">@color/text_dark</item>
+        <item name="colorPrimary">@color/btn_dark</item>
+        <item name="colorOnPrimary">@color/btn_text_dark</item>
     </style>
+
     <style name="Theme.PDF88.HC" parent="Theme.Material3.Dark.NoActionBar">
         <item name="android:windowBackground">@color/bg_hc</item>
         <item name="android:textColorPrimary">@color/text_hc</item>
+        <item name="colorPrimary">@color/btn_hc</item>
+        <item name="colorOnPrimary">@color/btn_text_hc</item>
     </style>
 </resources>
